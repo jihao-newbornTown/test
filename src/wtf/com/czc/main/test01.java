@@ -10,6 +10,8 @@ public class test01 {
 		
 		System.out.println("git");
 		System.out.println("aaaaa");
+		
+		System.out.println("bbb");
 	}
 
 }
